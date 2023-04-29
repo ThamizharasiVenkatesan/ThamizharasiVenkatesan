@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThamizharasiVenkatesan
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m Artificial Intelligence and Machine Learning Enthusiast
+- 🌱 I’m well versed in  Data Analytics
 - 💞️ I’m looking to collaborate on Internships with companies
 - 📫 To reach me on gmail jaishtamil.cwen@gmail.com
 
